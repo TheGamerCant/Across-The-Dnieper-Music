@@ -132,5 +132,14 @@ music = {
 		modifier = {
 			factor = 5
 		}		
-	}	
+	}
+}
+music = {
+	song = "My Chemical Romance - The world is ugly"
+	
+	chance = {
+		modifier = {
+			factor = 5
+		}		
+	}
 }

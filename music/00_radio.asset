@@ -324,3 +324,8 @@ music = {
 	name = "New Order - Blue monday"
 	file = "Generic/blue_monday.ogg"
 }
+
+music = {
+	name = "My Chemical Romance - The world is ugly"
+	file = "Generic/the_world_is_ugly.ogg"
+}
